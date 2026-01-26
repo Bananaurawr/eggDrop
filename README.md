@@ -1,8 +1,10 @@
-# Egg-Drop Game
-*Comforting Like a Soup*
+<div text-align="center" class="title">
+    <h1>Egg Drop</h1>
+    <p>A heartfelt game where players collect eggs with baskets.</p>
+    <img src="eggdropgif.gif" alt="EggDrop Gameplay">
+</div>
 
-![EggDrop Gameplay](eggdropgif.gif)
-
+<div class="main-content" align="center" text-align="center">
 Ever heard of the soup called “Egg Drop Soup”?
 
 EggDrop is a heartfelt game where players take on the role of Dino, a young student in his early 20s, as he embarks on a journey to collect eggs with his trusty basket. The goal is simple: gather as many eggs as possible, complete your collection, and share them with your friends!
@@ -10,3 +12,4 @@ EggDrop is a heartfelt game where players take on the role of Dino, a young stud
 Set in the 2020s, EggDrop tells the story of Dino, a student from Jakarta, Indonesia, who is pursuing his degree in Turkey. Coming from the fast-paced, results-driven life of Jakarta, Dino finds himself navigating the slower, more reflective pace of life in Ankara. Amidst the challenges of adapting to a new culture and balancing the pressures of his dreams, Dino finds solace in a simple yet comforting bowl of Egg Drop soup.
 
 EggDrop is more than just a collecting game—it’s a narrative experience that highlights the healing power of small joys, like a warm bowl of soup, in times of loneliness. It also offers a unique perspective on the cultural contrasts between Jakarta and Turkish youth culture, providing players with a meaningful and relatable story about resilience, self-discovery, and the pursuit of dreams.
+</div>
