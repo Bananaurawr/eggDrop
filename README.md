@@ -1,6 +1,6 @@
 <div text-align="center" align="center" class="title">
     <h1>Egg Drop[WIP]</h1>
-    <p>A heartfelt game where players collect eggs with baskets.</p>
+    <p style="font-size: 26pt;">Comforting like a soup</p>
     <img src="eggdropgif.gif" alt="EggDrop Gameplay">
 </div>
 
