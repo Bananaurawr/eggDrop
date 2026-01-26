@@ -1,5 +1,5 @@
-<div text-align="center" class="title">
-    <h1>Egg Drop</h1>
+<div text-align="center" align="center" class="title">
+    <h1>Egg Drop[WIP]</h1>
     <p>A heartfelt game where players collect eggs with baskets.</p>
     <img src="eggdropgif.gif" alt="EggDrop Gameplay">
 </div>
